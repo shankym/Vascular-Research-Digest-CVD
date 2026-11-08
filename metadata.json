@@ -1,0 +1,6 @@
+{
+  "name": "Vascular Research Radar",
+  "description": "Hourly Arterial Stiffness & Cardiovascular Research Digest. Automated discovery, journal quality verification, Gemini scientific analysis, and figure extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

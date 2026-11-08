@@ -1,0 +1,32 @@
+{
+  "journal_whitelist": [
+    "Circulation",
+    "European Heart Journal",
+    "Journal of the American College of Cardiology",
+    "Circulation Research",
+    "Hypertension",
+    "Cardiovascular Research",
+    "Arteriosclerosis, Thrombosis, and Vascular Biology",
+    "Journal of Hypertension",
+    "Atherosclerosis",
+    "European Journal of Preventive Cardiology",
+    "Journal of the American Heart Association",
+    "JACC: Cardiovascular Imaging",
+    "JACC: Heart Failure"
+  ],
+  "impact_factor_threshold": 10,
+  "research_categories": [
+    "Arterial Stiffness",
+    "Endothelial Function",
+    "Cardiovascular Disease",
+    "Related Research"
+  ],
+  "scheduling_enabled": true,
+  "hourly_interval_minutes": 60,
+  "last_run_time": "2026-11-08T17:56:56.895Z",
+  "next_run_time": "2026-11-08T18:57:04.493Z",
+  "notification_preferences": {
+    "emailAlerts": false,
+    "highImpactOnly": true
+  }
+}

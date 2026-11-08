@@ -1,0 +1,38 @@
+[
+  {
+    "id": "log-init-1",
+    "execution_time": "2026-11-07T19:22:20.442Z",
+    "execution_status": "success",
+    "selected_paper": "Arterial Stiffness as an Independent Predictor of Cardiovascular Events",
+    "journal": "European Heart Journal",
+    "category": "Arterial Stiffness",
+    "details": "Initial system boot and hourly radar cycle established. Journal Impact Factor verified (37.6)."
+  },
+  {
+    "id": "log-1794079387053-ju2k",
+    "execution_time": "2026-11-07T19:23:04.619Z",
+    "execution_status": "success",
+    "selected_paper": "Refined physical activity recommendations considering cardiovascular disease risk stratification: a cohort study.",
+    "journal": "European Journal of Preventive Cardiology",
+    "category": "Related Research",
+    "details": "Successfully processed paper: \"Refined physical activity recommendations considering cardiovascular disease risk stratification: a cohort study.\" from European Journal of Preventive Cardiology (IF: 8.4)."
+  },
+  {
+    "id": "log-1794157233637-pikv",
+    "execution_time": "2026-11-08T17:00:29.961Z",
+    "execution_status": "success",
+    "selected_paper": "In familial hypercholesterolaemia, remnant cholesterol above 1 mmol/L is associated with 50% higher risk of coronary artery disease.",
+    "journal": "European Journal of Preventive Cardiology",
+    "category": "Cardiovascular Disease",
+    "details": "Successfully processed paper: \"In familial hypercholesterolaemia, remnant cholesterol above 1 mmol/L is associated with 50% higher risk of coronary artery disease.\" from European Journal of Preventive Cardiology (IF: 8.4)."
+  },
+  {
+    "id": "log-1794160624492-dosf",
+    "execution_time": "2026-11-08T17:56:56.895Z",
+    "execution_status": "success",
+    "selected_paper": "Severe mental illness: cardiovascular risk assessment and management.",
+    "journal": "European Heart Journal",
+    "category": "Related Research",
+    "details": "Successfully processed paper: \"Severe mental illness: cardiovascular risk assessment and management.\" from European Heart Journal (IF: 37.6)."
+  }
+]
